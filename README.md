@@ -1,18 +1,17 @@
 
 
-# Potential Customer Revenue Calculation with Rule Based Classification
+# Lead Calculation with Rule Based Classification
 
-A game company wants to create new level based customer definitions using some attributes of the customers and they want to 
-create segments by using the new definitions to finally estimate how much profit can a new customer bring to the company when
-compared to these segments.
+## Business Problem
+A game company wants to create new level-based customer definitions (personas) by using some features of its customers, and to create segments according to these new customerdefinitions and to estimate how much the new customers can earn on average according to these segments.
 
-**Example**: How much profit can the company earn on a 25 year old male iOS user from Turkey?
+### For example:
+It is desired to determine how much a 25-year-old male user from Turkey who is an IOS user can earn on average.
 
 
-## Dataset Summary
-Persona.csv dataset contains the product prices of an international game company and demographic information of the customers.
-The dataset is comprised of each transaction record which implies that the dataset is not singularized. In another words, 
-a customer with certain demographic information could have more than 1 transaction.
+## Dataset Story
+
+The Persona.csv dataset contains the prices of the products sold by an international game company and some demographic information of the users who buy these products. The data set consists of records created in each sales transaction. This means table not singularized. In other words, a user with certain demographic characteristics may have made more than one purchase.
 
 ### Variables
 
