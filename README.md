@@ -36,7 +36,7 @@ Clone the project
 Go to project directory
 
 ```bash
-  cd rule_based_classification 
+  cd Lead-Calculation-with-Rule-Based-Classification
 ```
 
 Run the notebook.
